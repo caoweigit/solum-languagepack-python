@@ -1,4 +1,4 @@
-FROM ubuntu:precise
+FROM ubuntu:14.04
 MAINTAINER Murali Allada <murali.allada@rackspace.com>
 
 # Update sources.list
